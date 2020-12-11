@@ -1,0 +1,501 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:2:1-47:12
+MERGED from [com.android.support:design:28.0.0-rc01] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\b1d8b4b40a44b6d16bbcc853f378a37d\design-28.0.0-rc01\AndroidManifest.xml:17:1-24:12
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.7.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\e74bf9941806494af9e934a01b54d5d4\android-image-cropper-2.7.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc01] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\e9ad818e48bdb2b8d1d9766a3459c2d5\appcompat-v7-28.0.0-rc01\AndroidManifest.xml:17:1-22:12
+MERGED from [com.firebaseui:firebase-ui-database:3.2.2] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\89e3ac295f1a46e7839eee8bea0592ec\firebase-ui-database-3.2.2\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\8be64b9c538b15878cf66305e93d9885\firebase-auth-11.8.0\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.firebase:firebase-database:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\8c39b7dbda9f282d9e3a8676b2f683a8\firebase-database-11.8.0\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-messaging:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\212550aceb3138ec25df17ec744fbb93\firebase-messaging-11.8.0\AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.firebase:firebase-storage:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\49ddb7025e0ff9698b3ed78a4e84d496\firebase-storage-11.8.0\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\5f353fe3d4ba1cbc0f45d269b9a41d21\play-services-base-11.8.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-database-connection:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\e797b6f149819499669b289052323d25\firebase-database-connection-11.8.0\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\72bc1a3d36b5a69a779dbdf20e0a356e\firebase-iid-11.8.0\AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-common:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\599f46d17238f647032f62652839c2d4\firebase-common-11.8.0\AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\ffb1b2162265f4924840c0c1e4644e3f\play-services-tasks-11.8.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-storage-common:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\82486b19ee1bbd390734f75c3a5eea31\firebase-storage-common-11.8.0\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\5a262c4b505ccac654e53cc17398b030\play-services-basement-11.8.0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:28.0.0-rc01] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\8bf36de4f2ba3b985941bddb0c6d5d67\support-v4-28.0.0-rc01\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\a21253dfae2968a8477f97bd5cb1dc4b\constraint-layout-1.1.2\AndroidManifest.xml:2:1-11:12
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\8752735bd60abca13f33315884aec70d\circleimageview-2.2.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\a07fa8c15688693830a9c7ee2f82d507\picasso-2.71828\AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:support-fragment:28.0.0-rc01] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\02e15fd58afc7dc5006f48776d4d06ee\support-fragment-28.0.0-rc01\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc01] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\b8c4d44a999b9553b989b9ecf82ae832\animated-vector-drawable-28.0.0-rc01\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0-rc01] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\58eddc72651c39a18b2c0b87947aab25\recyclerview-v7-28.0.0-rc01\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0-rc01] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\cdea008729862da32494dcd42d4f3d9d\support-core-ui-28.0.0-rc01\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0-rc01] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\6899ed15b403562546ecbbf9420a98bf\support-core-utils-28.0.0-rc01\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc01] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\15a7bb42bb0ddef263ad9f62273f99a7\support-vector-drawable-28.0.0-rc01\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0-rc01] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\8bfe69efc45f202686d68c96cb956e44\transition-28.0.0-rc01\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0-rc01] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\729c147bea9cea846da3bc6ca362d2ae\support-media-compat-28.0.0-rc01\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-rc01] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\d200322d70f8b75b7144550bddc06fd4\loader-28.0.0-rc01\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0-rc01] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\a4cdf0e8eac68ce9a9f8ca8a961fa5a8\viewpager-28.0.0-rc01\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc01] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\b6b5aca42ed0d69335936e4df28d31e4\coordinatorlayout-28.0.0-rc01\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0-rc01] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\a7f224586263b206553421de15316dea\drawerlayout-28.0.0-rc01\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc01] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\7336e9b81456f525f2d34c4850d27d4f\slidingpanelayout-28.0.0-rc01\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0-rc01] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\8a3b6ff9ac54fb968b228c2848df118e\customview-28.0.0-rc01\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc01] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\c3c85c12657ff45623df6809c70cae81\swiperefreshlayout-28.0.0-rc01\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc01] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\d21e4aac408b6a3012c81a7a9c5d386a\asynclayoutinflater-28.0.0-rc01\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0-rc01] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\bdad740b595ad34ce70df167394a0f88\support-compat-28.0.0-rc01\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\5181dd62536b33e62a99957946b86899\versionedparcelable-28.0.0-rc01\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0-rc01] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\6b98f8aa0208e2aa9fa7992b9a0e81bc\cursoradapter-28.0.0-rc01\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0-rc01] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\ce88f85f24154abe9a33041777f0c7dc\cardview-v7-28.0.0-rc01\AndroidManifest.xml:17:1-22:12
+MERGED from [com.firebaseui:firebase-ui-common:3.2.2] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\d0aa711fa3f2777fdc0aa060083bf39e\firebase-ui-common-3.2.2\AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:exifinterface:27.1.1] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\0d4af3c672d765deaaf95c0214562ad4\exifinterface-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\26ecb2639d22ce7040f09cef12541f6c\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0-rc01] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\e63404edc65821c599d6d1277c859bcd\documentfile-28.0.0-rc01\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc01] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\ba2fe1b802590e5f8da2b8e2df0d9bf7\localbroadcastmanager-28.0.0-rc01\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0-rc01] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\e40a0bc1910331656441bdbc1de0eb8e\print-28.0.0-rc01\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\a72a6cfc25e1b1b477926d7fcf64a256\viewmodel-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0-rc01] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\1a034182586f01350a2588333c5112eb\interpolator-28.0.0-rc01\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\37e0a6c1113fc8383af85abbb988698f\livedata-core-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\4ca1c6d7c7e5831f597a26eb6b89598e\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth-license:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\ec059039335c458373acd85824122d2f\firebase-auth-license-11.8.0\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-database-license:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\82c629c5cb2df8229af73d3e74545b74\firebase-database-license-11.8.0\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-messaging-license:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\6459fc00e1e57b347d4ef1d146c57043\firebase-messaging-license-11.8.0\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-storage-license:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\c9795f15f7e80e950cafe86af9132161\firebase-storage-license-11.8.0\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\75a912015669744012de58d1a54612af\play-services-base-license-11.8.0\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\cd4cdf7124ca17af72e92ab4ee080f7b\play-services-basement-license-11.8.0\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\570d954b8f12cc0bc9592b38482a7198\firebase-common-license-11.8.0\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\bbbe9d7a8e936cdc9c841e4b2ccd08c4\play-services-tasks-license-11.8.0\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-database-connection-license:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\5f59255b21a939ddf691fe8f21cb067b\firebase-database-connection-license-11.8.0\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\3a545067c3749a389a3e5ac83a7b9447\firebase-iid-license-11.8.0\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-storage-common-license:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\f97a09a6daebff83fd9d5ba024fbe229\firebase-storage-common-license-11.8.0\AndroidManifest.xml:2:1-6:12
+INJECTED from C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:2:1-47:12
+	package
+		ADDED from C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:4:5-42
+		INJECTED from C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:2:1-47:12
+		INJECTED from C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:2:1-47:12
+		INJECTED from C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:6:5-67
+MERGED from [com.firebaseui:firebase-ui-database:3.2.2] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\89e3ac295f1a46e7839eee8bea0592ec\firebase-ui-database-3.2.2\AndroidManifest.xml:11:5-67
+MERGED from [com.firebaseui:firebase-ui-database:3.2.2] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\89e3ac295f1a46e7839eee8bea0592ec\firebase-ui-database-3.2.2\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\72bc1a3d36b5a69a779dbdf20e0a356e\firebase-iid-11.8.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\72bc1a3d36b5a69a779dbdf20e0a356e\firebase-iid-11.8.0\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:7:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:8:22-78
+application
+ADDED from C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:10:5-45:19
+MERGED from [com.android.support:design:28.0.0-rc01] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\b1d8b4b40a44b6d16bbcc853f378a37d\design-28.0.0-rc01\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0-rc01] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\b1d8b4b40a44b6d16bbcc853f378a37d\design-28.0.0-rc01\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\8be64b9c538b15878cf66305e93d9885\firebase-auth-11.8.0\AndroidManifest.xml:22:5-30:19
+MERGED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\8be64b9c538b15878cf66305e93d9885\firebase-auth-11.8.0\AndroidManifest.xml:22:5-30:19
+MERGED from [com.google.firebase:firebase-messaging:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\212550aceb3138ec25df17ec744fbb93\firebase-messaging-11.8.0\AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\212550aceb3138ec25df17ec744fbb93\firebase-messaging-11.8.0\AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\5f353fe3d4ba1cbc0f45d269b9a41d21\play-services-base-11.8.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\5f353fe3d4ba1cbc0f45d269b9a41d21\play-services-base-11.8.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\72bc1a3d36b5a69a779dbdf20e0a356e\firebase-iid-11.8.0\AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\72bc1a3d36b5a69a779dbdf20e0a356e\firebase-iid-11.8.0\AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-common:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\599f46d17238f647032f62652839c2d4\firebase-common-11.8.0\AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-common:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\599f46d17238f647032f62652839c2d4\firebase-common-11.8.0\AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\ffb1b2162265f4924840c0c1e4644e3f\play-services-tasks-11.8.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\ffb1b2162265f4924840c0c1e4644e3f\play-services-tasks-11.8.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\5a262c4b505ccac654e53cc17398b030\play-services-basement-11.8.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\5a262c4b505ccac654e53cc17398b030\play-services-basement-11.8.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\a21253dfae2968a8477f97bd5cb1dc4b\constraint-layout-1.1.2\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\a21253dfae2968a8477f97bd5cb1dc4b\constraint-layout-1.1.2\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\8752735bd60abca13f33315884aec70d\circleimageview-2.2.0\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\8752735bd60abca13f33315884aec70d\circleimageview-2.2.0\AndroidManifest.xml:9:5-20
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\a07fa8c15688693830a9c7ee2f82d507\picasso-2.71828\AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\a07fa8c15688693830a9c7ee2f82d507\picasso-2.71828\AndroidManifest.xml:7:5-12:19
+MERGED from [com.android.support:support-compat:28.0.0-rc01] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\bdad740b595ad34ce70df167394a0f88\support-compat-28.0.0-rc01\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0-rc01] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\bdad740b595ad34ce70df167394a0f88\support-compat-28.0.0-rc01\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\5181dd62536b33e62a99957946b86899\versionedparcelable-28.0.0-rc01\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\5181dd62536b33e62a99957946b86899\versionedparcelable-28.0.0-rc01\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-auth-license:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\ec059039335c458373acd85824122d2f\firebase-auth-license-11.8.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-auth-license:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\ec059039335c458373acd85824122d2f\firebase-auth-license-11.8.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-database-license:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\82c629c5cb2df8229af73d3e74545b74\firebase-database-license-11.8.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-database-license:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\82c629c5cb2df8229af73d3e74545b74\firebase-database-license-11.8.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-messaging-license:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\6459fc00e1e57b347d4ef1d146c57043\firebase-messaging-license-11.8.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-messaging-license:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\6459fc00e1e57b347d4ef1d146c57043\firebase-messaging-license-11.8.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-storage-license:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\c9795f15f7e80e950cafe86af9132161\firebase-storage-license-11.8.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-storage-license:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\c9795f15f7e80e950cafe86af9132161\firebase-storage-license-11.8.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\75a912015669744012de58d1a54612af\play-services-base-license-11.8.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\75a912015669744012de58d1a54612af\play-services-base-license-11.8.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\cd4cdf7124ca17af72e92ab4ee080f7b\play-services-basement-license-11.8.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\cd4cdf7124ca17af72e92ab4ee080f7b\play-services-basement-license-11.8.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\570d954b8f12cc0bc9592b38482a7198\firebase-common-license-11.8.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\570d954b8f12cc0bc9592b38482a7198\firebase-common-license-11.8.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\bbbe9d7a8e936cdc9c841e4b2ccd08c4\play-services-tasks-license-11.8.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\bbbe9d7a8e936cdc9c841e4b2ccd08c4\play-services-tasks-license-11.8.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-database-connection-license:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\5f59255b21a939ddf691fe8f21cb067b\firebase-database-connection-license-11.8.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-database-connection-license:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\5f59255b21a939ddf691fe8f21cb067b\firebase-database-connection-license-11.8.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\3a545067c3749a389a3e5ac83a7b9447\firebase-iid-license-11.8.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\3a545067c3749a389a3e5ac83a7b9447\firebase-iid-license-11.8.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-storage-common-license:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\f97a09a6daebff83fd9d5ba024fbe229\firebase-storage-common-license-11.8.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-storage-common-license:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\f97a09a6daebff83fd9d5ba024fbe229\firebase-storage-common-license-11.8.0\AndroidManifest.xml:5:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0-rc01] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\bdad740b595ad34ce70df167394a0f88\support-compat-28.0.0-rc01\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:14:9-41
+	android:roundIcon
+		ADDED from C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:15:9-47
+	android:icon
+		ADDED from C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:13:9-36
+	android:allowBackup
+		ADDED from C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:17:9-40
+	android:name
+		ADDED from C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.chatapplication.VideoViwer
+ADDED from C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:18:9-57
+	android:name
+		ADDED from C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:18:19-45
+activity#com.example.chatapplication.ForgotPasswordActivity
+ADDED from C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:19:9-60
+	android:name
+		ADDED from C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:19:19-57
+activity#com.example.chatapplication.ImageViwer
+ADDED from C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:20:9-48
+	android:name
+		ADDED from C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:20:19-45
+activity#com.example.chatapplication.ChatActivity
+ADDED from C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:21:9-23:58
+	android:parentActivityName
+		ADDED from C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:23:13-55
+	android:name
+		ADDED from C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:22:13-41
+activity#com.example.chatapplication.ProfileActivity
+ADDED from C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:24:9-53
+	android:name
+		ADDED from C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:24:19-50
+activity#com.example.chatapplication.FindFriendsActivity
+ADDED from C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:25:9-27:58
+	android:parentActivityName
+		ADDED from C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:27:13-55
+	android:name
+		ADDED from C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:26:13-48
+activity#com.example.chatapplication.PhoneLoginActivity
+ADDED from C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:28:9-56
+	android:name
+		ADDED from C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:28:19-53
+activity#com.example.chatapplication.GroupChatActivity
+ADDED from C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:29:9-55
+	android:name
+		ADDED from C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:29:19-52
+activity#com.example.chatapplication.SettingsActivity
+ADDED from C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:30:9-32:58
+	android:parentActivityName
+		ADDED from C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:32:13-55
+	android:name
+		ADDED from C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:31:13-45
+activity#com.example.chatapplication.RegisterActivity
+ADDED from C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:33:9-54
+	android:name
+		ADDED from C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:33:19-51
+activity#com.example.chatapplication.LoginActivity
+ADDED from C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:34:9-51
+	android:name
+		ADDED from C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:34:19-48
+activity#com.example.chatapplication.MainActivity
+ADDED from C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:35:9-41:20
+	android:name
+		ADDED from C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:35:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:36:13-40:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:37:17-69
+	android:name
+		ADDED from C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:37:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:39:17-77
+	android:name
+		ADDED from C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:39:27-74
+activity#com.theartofdev.edmodo.cropper.CropImageActivity
+ADDED from C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:42:9-44:59
+	android:theme
+		ADDED from C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:44:13-56
+	android:name
+		ADDED from C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:43:13-76
+uses-sdk
+INJECTED from C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0-rc01] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\b1d8b4b40a44b6d16bbcc853f378a37d\design-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0-rc01] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\b1d8b4b40a44b6d16bbcc853f378a37d\design-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.7.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\e74bf9941806494af9e934a01b54d5d4\android-image-cropper-2.7.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.7.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\e74bf9941806494af9e934a01b54d5d4\android-image-cropper-2.7.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc01] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\e9ad818e48bdb2b8d1d9766a3459c2d5\appcompat-v7-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc01] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\e9ad818e48bdb2b8d1d9766a3459c2d5\appcompat-v7-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.firebaseui:firebase-ui-database:3.2.2] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\89e3ac295f1a46e7839eee8bea0592ec\firebase-ui-database-3.2.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.firebaseui:firebase-ui-database:3.2.2] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\89e3ac295f1a46e7839eee8bea0592ec\firebase-ui-database-3.2.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\8be64b9c538b15878cf66305e93d9885\firebase-auth-11.8.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\8be64b9c538b15878cf66305e93d9885\firebase-auth-11.8.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\8c39b7dbda9f282d9e3a8676b2f683a8\firebase-database-11.8.0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\8c39b7dbda9f282d9e3a8676b2f683a8\firebase-database-11.8.0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-messaging:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\212550aceb3138ec25df17ec744fbb93\firebase-messaging-11.8.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\212550aceb3138ec25df17ec744fbb93\firebase-messaging-11.8.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\49ddb7025e0ff9698b3ed78a4e84d496\firebase-storage-11.8.0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\49ddb7025e0ff9698b3ed78a4e84d496\firebase-storage-11.8.0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\5f353fe3d4ba1cbc0f45d269b9a41d21\play-services-base-11.8.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\5f353fe3d4ba1cbc0f45d269b9a41d21\play-services-base-11.8.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-connection:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\e797b6f149819499669b289052323d25\firebase-database-connection-11.8.0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-connection:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\e797b6f149819499669b289052323d25\firebase-database-connection-11.8.0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\72bc1a3d36b5a69a779dbdf20e0a356e\firebase-iid-11.8.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\72bc1a3d36b5a69a779dbdf20e0a356e\firebase-iid-11.8.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\599f46d17238f647032f62652839c2d4\firebase-common-11.8.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\599f46d17238f647032f62652839c2d4\firebase-common-11.8.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\ffb1b2162265f4924840c0c1e4644e3f\play-services-tasks-11.8.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\ffb1b2162265f4924840c0c1e4644e3f\play-services-tasks-11.8.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-storage-common:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\82486b19ee1bbd390734f75c3a5eea31\firebase-storage-common-11.8.0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage-common:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\82486b19ee1bbd390734f75c3a5eea31\firebase-storage-common-11.8.0\AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\5a262c4b505ccac654e53cc17398b030\play-services-basement-11.8.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\5a262c4b505ccac654e53cc17398b030\play-services-basement-11.8.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0-rc01] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\8bf36de4f2ba3b985941bddb0c6d5d67\support-v4-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0-rc01] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\8bf36de4f2ba3b985941bddb0c6d5d67\support-v4-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\a21253dfae2968a8477f97bd5cb1dc4b\constraint-layout-1.1.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\a21253dfae2968a8477f97bd5cb1dc4b\constraint-layout-1.1.2\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\8752735bd60abca13f33315884aec70d\circleimageview-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\8752735bd60abca13f33315884aec70d\circleimageview-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\a07fa8c15688693830a9c7ee2f82d507\picasso-2.71828\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\a07fa8c15688693830a9c7ee2f82d507\picasso-2.71828\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-rc01] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\02e15fd58afc7dc5006f48776d4d06ee\support-fragment-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-rc01] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\02e15fd58afc7dc5006f48776d4d06ee\support-fragment-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc01] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\b8c4d44a999b9553b989b9ecf82ae832\animated-vector-drawable-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc01] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\b8c4d44a999b9553b989b9ecf82ae832\animated-vector-drawable-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0-rc01] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\58eddc72651c39a18b2c0b87947aab25\recyclerview-v7-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0-rc01] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\58eddc72651c39a18b2c0b87947aab25\recyclerview-v7-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-rc01] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\cdea008729862da32494dcd42d4f3d9d\support-core-ui-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-rc01] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\cdea008729862da32494dcd42d4f3d9d\support-core-ui-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-rc01] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\6899ed15b403562546ecbbf9420a98bf\support-core-utils-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-rc01] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\6899ed15b403562546ecbbf9420a98bf\support-core-utils-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc01] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\15a7bb42bb0ddef263ad9f62273f99a7\support-vector-drawable-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc01] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\15a7bb42bb0ddef263ad9f62273f99a7\support-vector-drawable-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0-rc01] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\8bfe69efc45f202686d68c96cb956e44\transition-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0-rc01] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\8bfe69efc45f202686d68c96cb956e44\transition-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0-rc01] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\729c147bea9cea846da3bc6ca362d2ae\support-media-compat-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0-rc01] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\729c147bea9cea846da3bc6ca362d2ae\support-media-compat-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-rc01] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\d200322d70f8b75b7144550bddc06fd4\loader-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-rc01] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\d200322d70f8b75b7144550bddc06fd4\loader-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-rc01] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\a4cdf0e8eac68ce9a9f8ca8a961fa5a8\viewpager-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-rc01] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\a4cdf0e8eac68ce9a9f8ca8a961fa5a8\viewpager-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc01] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\b6b5aca42ed0d69335936e4df28d31e4\coordinatorlayout-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc01] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\b6b5aca42ed0d69335936e4df28d31e4\coordinatorlayout-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-rc01] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\a7f224586263b206553421de15316dea\drawerlayout-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-rc01] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\a7f224586263b206553421de15316dea\drawerlayout-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc01] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\7336e9b81456f525f2d34c4850d27d4f\slidingpanelayout-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc01] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\7336e9b81456f525f2d34c4850d27d4f\slidingpanelayout-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-rc01] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\8a3b6ff9ac54fb968b228c2848df118e\customview-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-rc01] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\8a3b6ff9ac54fb968b228c2848df118e\customview-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc01] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\c3c85c12657ff45623df6809c70cae81\swiperefreshlayout-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc01] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\c3c85c12657ff45623df6809c70cae81\swiperefreshlayout-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc01] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\d21e4aac408b6a3012c81a7a9c5d386a\asynclayoutinflater-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc01] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\d21e4aac408b6a3012c81a7a9c5d386a\asynclayoutinflater-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-rc01] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\bdad740b595ad34ce70df167394a0f88\support-compat-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-rc01] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\bdad740b595ad34ce70df167394a0f88\support-compat-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\5181dd62536b33e62a99957946b86899\versionedparcelable-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\5181dd62536b33e62a99957946b86899\versionedparcelable-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-rc01] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\6b98f8aa0208e2aa9fa7992b9a0e81bc\cursoradapter-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-rc01] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\6b98f8aa0208e2aa9fa7992b9a0e81bc\cursoradapter-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-rc01] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\ce88f85f24154abe9a33041777f0c7dc\cardview-v7-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-rc01] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\ce88f85f24154abe9a33041777f0c7dc\cardview-v7-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.firebaseui:firebase-ui-common:3.2.2] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\d0aa711fa3f2777fdc0aa060083bf39e\firebase-ui-common-3.2.2\AndroidManifest.xml:8:5-10:41
+MERGED from [com.firebaseui:firebase-ui-common:3.2.2] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\d0aa711fa3f2777fdc0aa060083bf39e\firebase-ui-common-3.2.2\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:exifinterface:27.1.1] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\0d4af3c672d765deaaf95c0214562ad4\exifinterface-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.1] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\0d4af3c672d765deaaf95c0214562ad4\exifinterface-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\26ecb2639d22ce7040f09cef12541f6c\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\26ecb2639d22ce7040f09cef12541f6c\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-rc01] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\e63404edc65821c599d6d1277c859bcd\documentfile-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-rc01] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\e63404edc65821c599d6d1277c859bcd\documentfile-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc01] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\ba2fe1b802590e5f8da2b8e2df0d9bf7\localbroadcastmanager-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc01] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\ba2fe1b802590e5f8da2b8e2df0d9bf7\localbroadcastmanager-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-rc01] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\e40a0bc1910331656441bdbc1de0eb8e\print-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-rc01] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\e40a0bc1910331656441bdbc1de0eb8e\print-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\a72a6cfc25e1b1b477926d7fcf64a256\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\a72a6cfc25e1b1b477926d7fcf64a256\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-rc01] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\1a034182586f01350a2588333c5112eb\interpolator-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-rc01] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\1a034182586f01350a2588333c5112eb\interpolator-28.0.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\37e0a6c1113fc8383af85abbb988698f\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\37e0a6c1113fc8383af85abbb988698f\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\4ca1c6d7c7e5831f597a26eb6b89598e\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\4ca1c6d7c7e5831f597a26eb6b89598e\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-license:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\ec059039335c458373acd85824122d2f\firebase-auth-license-11.8.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-auth-license:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\ec059039335c458373acd85824122d2f\firebase-auth-license-11.8.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database-license:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\82c629c5cb2df8229af73d3e74545b74\firebase-database-license-11.8.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database-license:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\82c629c5cb2df8229af73d3e74545b74\firebase-database-license-11.8.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-messaging-license:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\6459fc00e1e57b347d4ef1d146c57043\firebase-messaging-license-11.8.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-messaging-license:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\6459fc00e1e57b347d4ef1d146c57043\firebase-messaging-license-11.8.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-storage-license:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\c9795f15f7e80e950cafe86af9132161\firebase-storage-license-11.8.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-storage-license:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\c9795f15f7e80e950cafe86af9132161\firebase-storage-license-11.8.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\75a912015669744012de58d1a54612af\play-services-base-license-11.8.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\75a912015669744012de58d1a54612af\play-services-base-license-11.8.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\cd4cdf7124ca17af72e92ab4ee080f7b\play-services-basement-license-11.8.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\cd4cdf7124ca17af72e92ab4ee080f7b\play-services-basement-license-11.8.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\570d954b8f12cc0bc9592b38482a7198\firebase-common-license-11.8.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\570d954b8f12cc0bc9592b38482a7198\firebase-common-license-11.8.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\bbbe9d7a8e936cdc9c841e4b2ccd08c4\play-services-tasks-license-11.8.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\bbbe9d7a8e936cdc9c841e4b2ccd08c4\play-services-tasks-license-11.8.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database-connection-license:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\5f59255b21a939ddf691fe8f21cb067b\firebase-database-connection-license-11.8.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database-connection-license:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\5f59255b21a939ddf691fe8f21cb067b\firebase-database-connection-license-11.8.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\3a545067c3749a389a3e5ac83a7b9447\firebase-iid-license-11.8.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\3a545067c3749a389a3e5ac83a7b9447\firebase-iid-license-11.8.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-storage-common-license:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\f97a09a6daebff83fd9d5ba024fbe229\firebase-storage-common-license-11.8.0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-storage-common-license:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\f97a09a6daebff83fd9d5ba024fbe229\firebase-storage-common-license-11.8.0\AndroidManifest.xml:4:5-43
+INJECTED from C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\8be64b9c538b15878cf66305e93d9885\firebase-auth-11.8.0\AndroidManifest.xml:23:9-29:75
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\8be64b9c538b15878cf66305e93d9885\firebase-auth-11.8.0\AndroidManifest.xml:25:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\8be64b9c538b15878cf66305e93d9885\firebase-auth-11.8.0\AndroidManifest.xml:27:13-48
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\8be64b9c538b15878cf66305e93d9885\firebase-auth-11.8.0\AndroidManifest.xml:26:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\8be64b9c538b15878cf66305e93d9885\firebase-auth-11.8.0\AndroidManifest.xml:28:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\8be64b9c538b15878cf66305e93d9885\firebase-auth-11.8.0\AndroidManifest.xml:29:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\8be64b9c538b15878cf66305e93d9885\firebase-auth-11.8.0\AndroidManifest.xml:24:13-85
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\212550aceb3138ec25df17ec744fbb93\firebase-messaging-11.8.0\AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\212550aceb3138ec25df17ec744fbb93\firebase-messaging-11.8.0\AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\212550aceb3138ec25df17ec744fbb93\firebase-messaging-11.8.0\AndroidManifest.xml:29:13-82
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\212550aceb3138ec25df17ec744fbb93\firebase-messaging-11.8.0\AndroidManifest.xml:31:13-33:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\212550aceb3138ec25df17ec744fbb93\firebase-messaging-11.8.0\AndroidManifest.xml:31:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\212550aceb3138ec25df17ec744fbb93\firebase-messaging-11.8.0\AndroidManifest.xml:32:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\212550aceb3138ec25df17ec744fbb93\firebase-messaging-11.8.0\AndroidManifest.xml:32:25-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\5f353fe3d4ba1cbc0f45d269b9a41d21\play-services-base-11.8.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\5f353fe3d4ba1cbc0f45d269b9a41d21\play-services-base-11.8.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\5f353fe3d4ba1cbc0f45d269b9a41d21\play-services-base-11.8.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\5f353fe3d4ba1cbc0f45d269b9a41d21\play-services-base-11.8.0\AndroidManifest.xml:24:13-79
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\72bc1a3d36b5a69a779dbdf20e0a356e\firebase-iid-11.8.0\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\72bc1a3d36b5a69a779dbdf20e0a356e\firebase-iid-11.8.0\AndroidManifest.xml:22:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\72bc1a3d36b5a69a779dbdf20e0a356e\firebase-iid-11.8.0\AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\72bc1a3d36b5a69a779dbdf20e0a356e\firebase-iid-11.8.0\AndroidManifest.xml:24:22-65
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\72bc1a3d36b5a69a779dbdf20e0a356e\firebase-iid-11.8.0\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\72bc1a3d36b5a69a779dbdf20e0a356e\firebase-iid-11.8.0\AndroidManifest.xml:26:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\72bc1a3d36b5a69a779dbdf20e0a356e\firebase-iid-11.8.0\AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\72bc1a3d36b5a69a779dbdf20e0a356e\firebase-iid-11.8.0\AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\72bc1a3d36b5a69a779dbdf20e0a356e\firebase-iid-11.8.0\AndroidManifest.xml:29:9-63
+permission#com.example.chatapplication.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\72bc1a3d36b5a69a779dbdf20e0a356e\firebase-iid-11.8.0\AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\72bc1a3d36b5a69a779dbdf20e0a356e\firebase-iid-11.8.0\AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\72bc1a3d36b5a69a779dbdf20e0a356e\firebase-iid-11.8.0\AndroidManifest.xml:29:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\72bc1a3d36b5a69a779dbdf20e0a356e\firebase-iid-11.8.0\AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\72bc1a3d36b5a69a779dbdf20e0a356e\firebase-iid-11.8.0\AndroidManifest.xml:32:22-76
+uses-permission#com.example.chatapplication.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\72bc1a3d36b5a69a779dbdf20e0a356e\firebase-iid-11.8.0\AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\72bc1a3d36b5a69a779dbdf20e0a356e\firebase-iid-11.8.0\AndroidManifest.xml:32:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\72bc1a3d36b5a69a779dbdf20e0a356e\firebase-iid-11.8.0\AndroidManifest.xml:35:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\72bc1a3d36b5a69a779dbdf20e0a356e\firebase-iid-11.8.0\AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\72bc1a3d36b5a69a779dbdf20e0a356e\firebase-iid-11.8.0\AndroidManifest.xml:38:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\72bc1a3d36b5a69a779dbdf20e0a356e\firebase-iid-11.8.0\AndroidManifest.xml:36:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\72bc1a3d36b5a69a779dbdf20e0a356e\firebase-iid-11.8.0\AndroidManifest.xml:39:13-43:29
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:com.example.chatapplication
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\72bc1a3d36b5a69a779dbdf20e0a356e\firebase-iid-11.8.0\AndroidManifest.xml:39:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\72bc1a3d36b5a69a779dbdf20e0a356e\firebase-iid-11.8.0\AndroidManifest.xml:40:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\72bc1a3d36b5a69a779dbdf20e0a356e\firebase-iid-11.8.0\AndroidManifest.xml:40:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\72bc1a3d36b5a69a779dbdf20e0a356e\firebase-iid-11.8.0\AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\72bc1a3d36b5a69a779dbdf20e0a356e\firebase-iid-11.8.0\AndroidManifest.xml:42:27-58
+category#com.example.chatapplication
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\72bc1a3d36b5a69a779dbdf20e0a356e\firebase-iid-11.8.0\AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\72bc1a3d36b5a69a779dbdf20e0a356e\firebase-iid-11.8.0\AndroidManifest.xml:42:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\72bc1a3d36b5a69a779dbdf20e0a356e\firebase-iid-11.8.0\AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\72bc1a3d36b5a69a779dbdf20e0a356e\firebase-iid-11.8.0\AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\72bc1a3d36b5a69a779dbdf20e0a356e\firebase-iid-11.8.0\AndroidManifest.xml:51:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\72bc1a3d36b5a69a779dbdf20e0a356e\firebase-iid-11.8.0\AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\72bc1a3d36b5a69a779dbdf20e0a356e\firebase-iid-11.8.0\AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\72bc1a3d36b5a69a779dbdf20e0a356e\firebase-iid-11.8.0\AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\72bc1a3d36b5a69a779dbdf20e0a356e\firebase-iid-11.8.0\AndroidManifest.xml:54:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\599f46d17238f647032f62652839c2d4\firebase-common-11.8.0\AndroidManifest.xml:8:9-12:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\599f46d17238f647032f62652839c2d4\firebase-common-11.8.0\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\599f46d17238f647032f62652839c2d4\firebase-common-11.8.0\AndroidManifest.xml:11:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\599f46d17238f647032f62652839c2d4\firebase-common-11.8.0\AndroidManifest.xml:12:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\599f46d17238f647032f62652839c2d4\firebase-common-11.8.0\AndroidManifest.xml:9:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\5a262c4b505ccac654e53cc17398b030\play-services-basement-11.8.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\5a262c4b505ccac654e53cc17398b030\play-services-basement-11.8.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\5a262c4b505ccac654e53cc17398b030\play-services-basement-11.8.0\AndroidManifest.xml:24:13-58
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\a07fa8c15688693830a9c7ee2f82d507\picasso-2.71828\AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\a07fa8c15688693830a9c7ee2f82d507\picasso-2.71828\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\a07fa8c15688693830a9c7ee2f82d507\picasso-2.71828\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\a07fa8c15688693830a9c7ee2f82d507\picasso-2.71828\AndroidManifest.xml:9:13-64

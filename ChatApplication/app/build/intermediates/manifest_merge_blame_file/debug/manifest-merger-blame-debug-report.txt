@@ -1,0 +1,233 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.chatapplication"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:6:5-67
+11-->C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:6:22-64
+12    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+12-->C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:7:5-80
+12-->C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:7:22-77
+13    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+13-->C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:8:5-81
+13-->C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:8:22-78
+14    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+14-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\72bc1a3d36b5a69a779dbdf20e0a356e\firebase-iid-11.8.0\AndroidManifest.xml:22:5-79
+14-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\72bc1a3d36b5a69a779dbdf20e0a356e\firebase-iid-11.8.0\AndroidManifest.xml:22:22-76
+15    <uses-permission android:name="android.permission.WAKE_LOCK" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+15-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\72bc1a3d36b5a69a779dbdf20e0a356e\firebase-iid-11.8.0\AndroidManifest.xml:24:5-68
+15-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\72bc1a3d36b5a69a779dbdf20e0a356e\firebase-iid-11.8.0\AndroidManifest.xml:24:22-65
+16    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+16-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\72bc1a3d36b5a69a779dbdf20e0a356e\firebase-iid-11.8.0\AndroidManifest.xml:26:5-82
+16-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\72bc1a3d36b5a69a779dbdf20e0a356e\firebase-iid-11.8.0\AndroidManifest.xml:26:22-79
+17
+18    <permission
+18-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\72bc1a3d36b5a69a779dbdf20e0a356e\firebase-iid-11.8.0\AndroidManifest.xml:28:5-30:47
+19        android:name="com.example.chatapplication.permission.C2D_MESSAGE"
+19-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\72bc1a3d36b5a69a779dbdf20e0a356e\firebase-iid-11.8.0\AndroidManifest.xml:29:9-63
+20        android:protectionLevel="signature" />
+20-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\72bc1a3d36b5a69a779dbdf20e0a356e\firebase-iid-11.8.0\AndroidManifest.xml:30:9-44
+21
+22    <uses-permission android:name="com.example.chatapplication.permission.C2D_MESSAGE" />
+22-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\72bc1a3d36b5a69a779dbdf20e0a356e\firebase-iid-11.8.0\AndroidManifest.xml:32:5-79
+22-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\72bc1a3d36b5a69a779dbdf20e0a356e\firebase-iid-11.8.0\AndroidManifest.xml:32:22-76
+23
+24    <application
+24-->C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:10:5-45:19
+25        android:name="com.example.chatapplication.ChatApplication"
+25-->C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:11:9-40
+26        android:allowBackup="true"
+26-->C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:12:9-35
+27        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+27-->[com.android.support:support-compat:28.0.0-rc01] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\bdad740b595ad34ce70df167394a0f88\support-compat-28.0.0-rc01\AndroidManifest.xml:22:18-91
+28        android:debuggable="true"
+29        android:icon="@mipmap/icon"
+29-->C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:13:9-36
+30        android:label="@string/app_name"
+30-->C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:14:9-41
+31        android:roundIcon="@mipmap/icon_round"
+31-->C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:15:9-47
+32        android:supportsRtl="true"
+32-->C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:16:9-35
+33        android:testOnly="true"
+34        android:theme="@style/AppTheme" >
+34-->C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:17:9-40
+35        <activity android:name="com.example.chatapplication.VideoViwer" />
+35-->C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:18:9-57
+35-->C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:18:19-45
+36        <activity android:name="com.example.chatapplication.ForgotPasswordActivity" />
+36-->C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:19:9-60
+36-->C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:19:19-57
+37        <activity android:name="com.example.chatapplication.ImageViwer" />
+37-->C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:20:9-48
+37-->C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:20:19-45
+38        <activity
+38-->C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:21:9-23:58
+39            android:name="com.example.chatapplication.ChatActivity"
+39-->C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:22:13-41
+40            android:parentActivityName="com.example.chatapplication.MainActivity" />
+40-->C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:23:13-55
+41        <activity android:name="com.example.chatapplication.ProfileActivity" />
+41-->C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:24:9-53
+41-->C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:24:19-50
+42        <activity
+42-->C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:25:9-27:58
+43            android:name="com.example.chatapplication.FindFriendsActivity"
+43-->C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:26:13-48
+44            android:parentActivityName="com.example.chatapplication.MainActivity" />
+44-->C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:27:13-55
+45        <activity android:name="com.example.chatapplication.PhoneLoginActivity" />
+45-->C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:28:9-56
+45-->C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:28:19-53
+46        <activity android:name="com.example.chatapplication.GroupChatActivity" />
+46-->C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:29:9-55
+46-->C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:29:19-52
+47        <activity
+47-->C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:30:9-32:58
+48            android:name="com.example.chatapplication.SettingsActivity"
+48-->C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:31:13-45
+49            android:parentActivityName="com.example.chatapplication.MainActivity" />
+49-->C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:32:13-55
+50        <activity android:name="com.example.chatapplication.RegisterActivity" />
+50-->C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:33:9-54
+50-->C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:33:19-51
+51        <activity android:name="com.example.chatapplication.LoginActivity" />
+51-->C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:34:9-51
+51-->C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:34:19-48
+52        <activity android:name="com.example.chatapplication.MainActivity" >
+52-->C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:35:9-41:20
+52-->C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:35:19-47
+53            <intent-filter>
+53-->C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:36:13-40:29
+54                <action android:name="android.intent.action.MAIN" />
+54-->C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:37:17-69
+54-->C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:37:25-66
+55
+56                <category android:name="android.intent.category.LAUNCHER" />
+56-->C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:39:17-77
+56-->C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:39:27-74
+57            </intent-filter>
+58        </activity>
+59        <activity
+59-->C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:42:9-44:59
+60            android:name="com.theartofdev.edmodo.cropper.CropImageActivity"
+60-->C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:43:13-76
+61            android:theme="@style/Base.Theme.AppCompat" />
+61-->C:\Users\Maulik Gevariya\AndroidStudioProjects\ChatApplication\app\src\main\AndroidManifest.xml:44:13-56
+62        <activity
+62-->[com.google.firebase:firebase-auth:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\8be64b9c538b15878cf66305e93d9885\firebase-auth-11.8.0\AndroidManifest.xml:23:9-29:75
+63            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
+63-->[com.google.firebase:firebase-auth:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\8be64b9c538b15878cf66305e93d9885\firebase-auth-11.8.0\AndroidManifest.xml:24:13-85
+64            android:excludeFromRecents="true"
+64-->[com.google.firebase:firebase-auth:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\8be64b9c538b15878cf66305e93d9885\firebase-auth-11.8.0\AndroidManifest.xml:25:13-46
+65            android:exported="true"
+65-->[com.google.firebase:firebase-auth:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\8be64b9c538b15878cf66305e93d9885\firebase-auth-11.8.0\AndroidManifest.xml:26:13-36
+66            android:launchMode="singleInstance"
+66-->[com.google.firebase:firebase-auth:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\8be64b9c538b15878cf66305e93d9885\firebase-auth-11.8.0\AndroidManifest.xml:27:13-48
+67            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
+67-->[com.google.firebase:firebase-auth:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\8be64b9c538b15878cf66305e93d9885\firebase-auth-11.8.0\AndroidManifest.xml:28:13-102
+68            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+68-->[com.google.firebase:firebase-auth:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\8be64b9c538b15878cf66305e93d9885\firebase-auth-11.8.0\AndroidManifest.xml:29:13-72
+69        <!--
+70             FirebaseMessagingService performs security checks at runtime,
+71             no need for explicit permissions despite exported="true"
+72        -->
+73        <service
+73-->[com.google.firebase:firebase-messaging:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\212550aceb3138ec25df17ec744fbb93\firebase-messaging-11.8.0\AndroidManifest.xml:28:9-34:19
+74            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+74-->[com.google.firebase:firebase-messaging:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\212550aceb3138ec25df17ec744fbb93\firebase-messaging-11.8.0\AndroidManifest.xml:29:13-82
+75            android:exported="true" >
+75-->[com.google.firebase:firebase-messaging:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\212550aceb3138ec25df17ec744fbb93\firebase-messaging-11.8.0\AndroidManifest.xml:30:13-36
+76            <intent-filter android:priority="-500" >
+76-->[com.google.firebase:firebase-messaging:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\212550aceb3138ec25df17ec744fbb93\firebase-messaging-11.8.0\AndroidManifest.xml:31:13-33:29
+76-->[com.google.firebase:firebase-messaging:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\212550aceb3138ec25df17ec744fbb93\firebase-messaging-11.8.0\AndroidManifest.xml:31:28-51
+77                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+77-->[com.google.firebase:firebase-messaging:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\212550aceb3138ec25df17ec744fbb93\firebase-messaging-11.8.0\AndroidManifest.xml:32:17-78
+77-->[com.google.firebase:firebase-messaging:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\212550aceb3138ec25df17ec744fbb93\firebase-messaging-11.8.0\AndroidManifest.xml:32:25-75
+78            </intent-filter>
+79        </service>
+80
+81        <activity
+81-->[com.google.android.gms:play-services-base:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\5f353fe3d4ba1cbc0f45d269b9a41d21\play-services-base-11.8.0\AndroidManifest.xml:23:9-26:75
+82            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+82-->[com.google.android.gms:play-services-base:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\5f353fe3d4ba1cbc0f45d269b9a41d21\play-services-base-11.8.0\AndroidManifest.xml:24:13-79
+83            android:exported="false"
+83-->[com.google.android.gms:play-services-base:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\5f353fe3d4ba1cbc0f45d269b9a41d21\play-services-base-11.8.0\AndroidManifest.xml:25:13-37
+84            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+84-->[com.google.android.gms:play-services-base:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\5f353fe3d4ba1cbc0f45d269b9a41d21\play-services-base-11.8.0\AndroidManifest.xml:26:13-72
+85
+86        <receiver
+86-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\72bc1a3d36b5a69a779dbdf20e0a356e\firebase-iid-11.8.0\AndroidManifest.xml:35:9-44:20
+87            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+87-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\72bc1a3d36b5a69a779dbdf20e0a356e\firebase-iid-11.8.0\AndroidManifest.xml:36:13-78
+88            android:exported="true"
+88-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\72bc1a3d36b5a69a779dbdf20e0a356e\firebase-iid-11.8.0\AndroidManifest.xml:37:13-36
+89            android:permission="com.google.android.c2dm.permission.SEND" >
+89-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\72bc1a3d36b5a69a779dbdf20e0a356e\firebase-iid-11.8.0\AndroidManifest.xml:38:13-73
+90            <intent-filter>
+90-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\72bc1a3d36b5a69a779dbdf20e0a356e\firebase-iid-11.8.0\AndroidManifest.xml:39:13-43:29
+91                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+91-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\72bc1a3d36b5a69a779dbdf20e0a356e\firebase-iid-11.8.0\AndroidManifest.xml:40:17-81
+91-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\72bc1a3d36b5a69a779dbdf20e0a356e\firebase-iid-11.8.0\AndroidManifest.xml:40:25-78
+92
+93                <category android:name="com.example.chatapplication" />
+93-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\72bc1a3d36b5a69a779dbdf20e0a356e\firebase-iid-11.8.0\AndroidManifest.xml:42:17-61
+93-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\72bc1a3d36b5a69a779dbdf20e0a356e\firebase-iid-11.8.0\AndroidManifest.xml:42:27-58
+94            </intent-filter>
+95        </receiver>
+96        <!--
+97             FirebaseInstanceIdService performs security checks at runtime,
+98             no need for explicit permissions despite exported="true"
+99        -->
+100        <service
+100-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\72bc1a3d36b5a69a779dbdf20e0a356e\firebase-iid-11.8.0\AndroidManifest.xml:50:9-56:19
+101            android:name="com.google.firebase.iid.FirebaseInstanceIdService"
+101-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\72bc1a3d36b5a69a779dbdf20e0a356e\firebase-iid-11.8.0\AndroidManifest.xml:51:13-77
+102            android:exported="true" >
+102-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\72bc1a3d36b5a69a779dbdf20e0a356e\firebase-iid-11.8.0\AndroidManifest.xml:52:13-36
+103            <intent-filter android:priority="-500" >
+103-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\72bc1a3d36b5a69a779dbdf20e0a356e\firebase-iid-11.8.0\AndroidManifest.xml:53:13-55:29
+103-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\72bc1a3d36b5a69a779dbdf20e0a356e\firebase-iid-11.8.0\AndroidManifest.xml:53:28-51
+104                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+104-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\72bc1a3d36b5a69a779dbdf20e0a356e\firebase-iid-11.8.0\AndroidManifest.xml:54:17-80
+104-->[com.google.firebase:firebase-iid:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\72bc1a3d36b5a69a779dbdf20e0a356e\firebase-iid-11.8.0\AndroidManifest.xml:54:25-77
+105            </intent-filter>
+106        </service>
+107
+108        <provider
+108-->[com.google.firebase:firebase-common:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\599f46d17238f647032f62652839c2d4\firebase-common-11.8.0\AndroidManifest.xml:8:9-12:39
+109            android:name="com.google.firebase.provider.FirebaseInitProvider"
+109-->[com.google.firebase:firebase-common:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\599f46d17238f647032f62652839c2d4\firebase-common-11.8.0\AndroidManifest.xml:9:13-77
+110            android:authorities="com.example.chatapplication.firebaseinitprovider"
+110-->[com.google.firebase:firebase-common:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\599f46d17238f647032f62652839c2d4\firebase-common-11.8.0\AndroidManifest.xml:10:13-72
+111            android:exported="false"
+111-->[com.google.firebase:firebase-common:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\599f46d17238f647032f62652839c2d4\firebase-common-11.8.0\AndroidManifest.xml:11:13-37
+112            android:initOrder="100" />
+112-->[com.google.firebase:firebase-common:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\599f46d17238f647032f62652839c2d4\firebase-common-11.8.0\AndroidManifest.xml:12:13-36
+113
+114        <meta-data
+114-->[com.google.android.gms:play-services-basement:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\5a262c4b505ccac654e53cc17398b030\play-services-basement-11.8.0\AndroidManifest.xml:23:9-25:69
+115            android:name="com.google.android.gms.version"
+115-->[com.google.android.gms:play-services-basement:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\5a262c4b505ccac654e53cc17398b030\play-services-basement-11.8.0\AndroidManifest.xml:24:13-58
+116            android:value="@integer/google_play_services_version" />
+116-->[com.google.android.gms:play-services-basement:11.8.0] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\5a262c4b505ccac654e53cc17398b030\play-services-basement-11.8.0\AndroidManifest.xml:25:13-66
+117
+118        <provider
+118-->[com.squareup.picasso:picasso:2.71828] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\a07fa8c15688693830a9c7ee2f82d507\picasso-2.71828\AndroidManifest.xml:8:9-11:40
+119            android:name="com.squareup.picasso.PicassoProvider"
+119-->[com.squareup.picasso:picasso:2.71828] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\a07fa8c15688693830a9c7ee2f82d507\picasso-2.71828\AndroidManifest.xml:9:13-64
+120            android:authorities="com.example.chatapplication.com.squareup.picasso"
+120-->[com.squareup.picasso:picasso:2.71828] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\a07fa8c15688693830a9c7ee2f82d507\picasso-2.71828\AndroidManifest.xml:10:13-72
+121            android:exported="false" />
+121-->[com.squareup.picasso:picasso:2.71828] C:\Users\Maulik Gevariya\.gradle\caches\transforms-2\files-2.1\a07fa8c15688693830a9c7ee2f82d507\picasso-2.71828\AndroidManifest.xml:11:13-37
+122    </application>
+123
+124</manifest>
